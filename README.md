@@ -7,5 +7,3 @@
 ## To run the program into your localhost
 
 ### `npm start`
-
-"# real-time-clock" 
